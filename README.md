@@ -1,2 +1,0 @@
-# VueDemo
-practice vue demo
